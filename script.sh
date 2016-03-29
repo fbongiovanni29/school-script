@@ -31,7 +31,7 @@ echo -e "$GREEN cd\x18$BLUE name"
 echo -e "$CYAN ---------------------------------------------"
 echo -e "$RED Your parent directory is named"
 echo -e "$YELLOW $parent"
-echo -e "$RED to get here type \x18$GREEN../"
+echo -e "$RED to get here type \x18$GREEN cd .."
 echo -e "$CYAN ---------------------------------------------"
 echo -e "$RED Your subdirectories are:$YELLOW"
 `printf "ls -d */"`
